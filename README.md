@@ -98,7 +98,6 @@ Generate content for the post on AI development with 'title' and 'text' as the k
 
 - `praw`: Python Reddit API Wrapper.
 - `groq`: Groq AI Python SDK.
-- `requests`: For making HTTP requests.
 
 ## License
 
