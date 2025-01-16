@@ -1,9 +1,7 @@
-import os
 from groq import Groq
 import time
 import json
 import praw
-import requests
 from datetime import datetime, timedelta
 
 # --- Configuration ---
